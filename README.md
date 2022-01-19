@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ♟ Bridge / Chess ♣
 
 
-## Find me around the web 🌎: </a>
+### Find me around the web 🌎: </a>
 - Sharing updates on <a href="https://uk.linkedin.com/in/lanxuanqi/">LinkedIn</a> 💼
 - Fun fact about me follow [Instagram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiIsJvK_Lz1AhVMfMAKHWgjCPIQFnoECAYQAQ&url=https%3A%2F%2Fwww.instagram.com%2Flan.xuann%2F&usg=AOvVaw3_nrdaI4EX1DJDzN959zUM) 😊👯
 
