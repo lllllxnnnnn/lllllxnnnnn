@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lanxuan 👋
 
 <!--
 **lllllxnnnnn/lllllxnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Yoo, I'm Lanxuan 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
-
-- 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _BSc in Computer Science_
-- ⚡ C++ / Python.
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
-- ✍️ [Blogger](https://haysc.tech)
-- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
-- 🥋 Boxing / Tai Chi
-- ♟ Chinese Chess / Chess 
+- 🍻 Business Analyst at 🇬🇧 [Barclays](https://www.cib.barclays), _MSc in Statistics at [LSE](https://www.lse.ac.uk)_
+- ⚡ R / Python.
+- 🏃 globetrotting ✈️
+- ♟ Bridge ♣ / Chess 
+- 👯 Fun fact about me follow [Instagram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiIsJvK_Lz1AhVMfMAKHWgjCPIQFnoECAYQAQ&url=https%3A%2F%2Fwww.instagram.com%2Flan.xuann%2F&usg=AOvVaw3_nrdaI4EX1DJDzN959zUM)
 
