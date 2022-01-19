@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 🍻 Business Analyst at 🇬🇧 [Barclays](https://www.cib.barclays), 
 - 🍃 MSc in Statistics @ [LSE](https://www.lse.ac.uk)
-- ⚡ R / Python / NLP / SQL / MATLAB / SAS / Java / C / TensorFlow / PyTorch .
-- 🥑 Photography / Art / Machine Learning / Deep Learning
+- ⚡ R / Python / SQL / MATLAB / SAS / Java / C / TensorFlow / PyTorch .
+- 🥑 Photography / Art / NLP / Machine Learning / Deep Learning
 - 🏃 Globetrotting 
 - ♟ Bridge / Chess ♣
 - 👯 Fun fact about me follow [Instagram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiIsJvK_Lz1AhVMfMAKHWgjCPIQFnoECAYQAQ&url=https%3A%2F%2Fwww.instagram.com%2Flan.xuann%2F&usg=AOvVaw3_nrdaI4EX1DJDzN959zUM) 😊
