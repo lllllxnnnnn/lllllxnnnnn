@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 🍻 Business Analyst at [Barclays](https://www.cib.barclays) 🇬🇧
+- 🍻 Business Analyst at 🇬🇧 [Barclays](https://www.cib.barclays) 
 - 🍃 MSc in Statistics @ [LSE](https://www.lse.ac.uk)
 - ⚡ R / Python / SQL / MATLAB / SAS / Java / C / TensorFlow / PyTorch .
 - 🥑 Photography / Art / NLP / Machine Learning / Deep Learning
